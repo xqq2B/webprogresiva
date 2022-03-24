@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Formulario</title>
+</head>
+<body>
+<center>
+
+    <form action="envio.php" method="get">
+        <h1>Registro</h1>
+    
+        Nombre: <input type="text" name="nombre" autofocus="autofocus" required><br>
+        Apellido 1: <input type="text" name="nombre1" required><br>
+        Apellido 2: <input type="text" name="nombre2" required><br>
+        Edad: <input type="number" name="edad" required><br>
+        Telefono: <input type="tel" name="telefono" maxlength="10" placeholder="10 digitos" required><br>
+        Correo: <input type="email" name="correo" placeholder="correo@dominio.com" required><br>
+    
+    
+        <input type="submit" value="Enviar" id="boton">
+        <input type="reset" value="Borrar" id="boton">
+     
+    </form>
+</center>
+</body>
+</html>
