@@ -1,8 +1,23 @@
 body{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     background-color: aqua;
+    text-align: justify;
+}
+
+h1{
+    text-align:center;
+    color:red;
+}
+iframe{
     text-align: center;
 }
 
-iframe{
-    text-align: center;
+img{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(-80%);
 }
