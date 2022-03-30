@@ -1,8 +1,8 @@
 {
-    "name": "My Sample PWA",
+    "name": "Dota2 PWA",
     "lang": "es-mx",
-    "short_name": "Ejemplo PWA",
-    "description": "Ejemplo de pagina progresiva",
+    "short_name": "dota",
+    "description": "Tematica de dota 2 un juego de tipo MOBA",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",
