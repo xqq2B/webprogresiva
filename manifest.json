@@ -3,7 +3,7 @@
     "lang": "es-mx",
     "short_name": "dota",
     "description": "Tematica de dota 2 un juego de tipo MOBA",
-    "start_url": "/index.html",
+    "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "display": "standalone",
     "theme_color": "#2f3d58",
