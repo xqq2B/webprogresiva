@@ -3,7 +3,7 @@
     "lang": "es-mx",
     "short_name": "dota",
     "description": "Tematica de dota 2 un juego de tipo MOBA",
-    "start_url": "./xqq2b.github.io/webprogresiva",
+    "start_url": "./",
     "scope": "./",
     "display": "standalone",
     "theme_color": "#2f3d58",
