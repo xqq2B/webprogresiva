@@ -1,6 +1,6 @@
 body{
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: aqua;
@@ -16,8 +16,16 @@ iframe{
 }
 
 img{
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    transform: translate(-80%);
+    
+    display:block;
+    margin: 0 auto;
+    background-color: #777;;
+      width: 400px;
+    height: 300px;
+}
+
+iframe{
+    display:block;
+    margin: 0 auto;
+    background-color: #777;
 }
